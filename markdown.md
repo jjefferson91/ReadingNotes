@@ -5,6 +5,4 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 - controls bold and italic fonts
 - able to create tables and add images
 
-& Jerrad
 
-`loser`
