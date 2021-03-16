@@ -7,4 +7,4 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 
 & Jerrad
 
-'loser'
+`loser`
