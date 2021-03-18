@@ -30,7 +30,7 @@ An **IDE** is a text editor, a file manager, a compiler, and a debugger all in o
 ## Command line/Terminal
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text. I like to think of it as talking to my computer.
 
-! [example] <img width="437" alt="Screenshot 2021-03-17 210522" src="https://user-images.githubusercontent.com/80726468/111562871-eac21780-8764-11eb-9352-103f1ceca63b.png">
+<img width="437" alt="Screenshot 2021-03-17 210522" src="https://user-images.githubusercontent.com/80726468/111562871-eac21780-8764-11eb-9352-103f1ceca63b.png">
 
 Line 1 shows command with an option and argument. Lines 2 shows the resulting output. Line 6 is our prompt lets us know our terminal is ready for another command.
 
