@@ -27,4 +27,3 @@ These options all prodive different ways of clarifying, highlighting, and organi
 An **IDE** differs fromna text editor best it does so much more. 
 An **IDE** is a text editor, a file manager, a compiler, and a debugger all in one software package
 
-Personslly I believe I'm going with Visual Studio Code
