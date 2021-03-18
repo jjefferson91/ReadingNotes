@@ -48,4 +48,23 @@ Shortcuts like Ctrl + Shift + 3 helps me opening my Ubuntu terminal or using arr
 **cd** (change directory) *ran with no arguements takes you back to home screen*
 allows you to move around in the system.  
 
+## More About Files
+Types of files.
+- file.exe - an executable file, or program.
+- file.txt - a plain text file.
+- file.png, file.gif, file.jpg - an image.
+
+Use **file** ( file [path] ) to figure out what type of file your in
+
+Use quotes if your searching for something  with spaces.
+
+**ls -a** List the contents of a directory, including hidden files.
+
+**KEY NOTES**
+Everything is a file under Linux
+Even directories.
+Linux is an extensionless system
+Files can have any extension they like or none at all.
+Linux is case sensitive
+Beware of silly typos.
 
