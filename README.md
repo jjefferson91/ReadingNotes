@@ -4,6 +4,6 @@ INTRODUCTION: Hey I'm Jerrad Jefferson, a 30 year old father of two. I've enroll
 
 **Table of Contents**
 
-(https://jjefferson91.github.io/ReadingNotes/GrowthMindset)
-(https://jjefferson91.github.io/ReadingNotes/markdown)
-(https://jjefferson91.github.io/ReadingNotes/TheCodersComputer)
+<a href="https://jjefferson91.github.io/ReadingNotes/GrowthMindset">Growth Mindset</a>
+<https://jjefferson91.github.io/ReadingNotes/markdown>
+<https://jjefferson91.github.io/ReadingNotes/TheCodersComputer>
