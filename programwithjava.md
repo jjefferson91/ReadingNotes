@@ -48,4 +48,4 @@ An answer provided from a function is called a **return value**.
 
 ### Declaring A Function
 
-to creating a function fir
+to creating a function first type Function then name your function
